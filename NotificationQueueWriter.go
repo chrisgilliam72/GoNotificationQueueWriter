@@ -104,5 +104,6 @@ func handleRequests() {
 }
 
 func main() {
+	print("Starting...")
 	handleRequests()
 }
